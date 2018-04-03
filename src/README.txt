@@ -1,0 +1,1 @@
+Before starting app please set up config file (see src/serviceConfig.js)
